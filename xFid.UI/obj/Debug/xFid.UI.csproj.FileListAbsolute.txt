@@ -1,0 +1,14 @@
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\obj\Debug\xFid.UI.csprojResolveAssemblyReference.cache
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.UI.exe.config
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.UI.exe
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.UI.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\Ninject.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.BLL.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.Models.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.Data.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.BLL.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.Models.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\Ninject.xml
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\bin\Debug\xFid.Data.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\obj\Debug\xFid.UI.exe
+c:\_repos\john-kachurek-individual-work\xFid\xFid.UI\obj\Debug\xFid.UI.pdb

@@ -1,0 +1,9 @@
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\bin\Debug\xFid.Data.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\bin\Debug\xFid.Data.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\bin\Debug\Ninject.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\bin\Debug\xFid.Models.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\bin\Debug\xFid.Models.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\bin\Debug\Ninject.xml
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\obj\Debug\xFid.Data.csprojResolveAssemblyReference.cache
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\obj\Debug\xFid.Data.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Data\obj\Debug\xFid.Data.pdb

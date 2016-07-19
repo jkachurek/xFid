@@ -1,0 +1,17 @@
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.Tests.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.Tests.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\Ninject.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\nunit.framework.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.BLL.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.Data.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.Models.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.UI.exe
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.BLL.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.Data.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.Models.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\xFid.UI.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\Ninject.xml
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\bin\Debug\nunit.framework.xml
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\obj\Debug\xFid.Tests.csprojResolveAssemblyReference.cache
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\obj\Debug\xFid.Tests.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Tests\obj\Debug\xFid.Tests.pdb

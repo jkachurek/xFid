@@ -1,0 +1,5 @@
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Models\bin\Debug\xFid.Models.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Models\bin\Debug\xFid.Models.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Models\obj\Debug\xFid.Models.dll
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Models\obj\Debug\xFid.Models.pdb
+c:\_repos\john-kachurek-individual-work\xFid\xFid.Models\obj\Debug\xFid.Models.csprojResolveAssemblyReference.cache
